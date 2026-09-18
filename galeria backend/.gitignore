@@ -1,0 +1,23 @@
+# Dependencias de Node
+node_modules/
+package-lock.json
+
+# Archivos de variables de entorno y credenciales
+.env
+.env.local
+.env.development
+
+# Registros de errores y logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos del sistema operativo y VS Code
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Archivos subidos por usuarios (multimedia/imágenes)
+public/uploads/
+uploads/
